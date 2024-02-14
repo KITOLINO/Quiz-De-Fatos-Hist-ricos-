@@ -92,18 +92,5 @@ console.log(`\nJogador : ${Usuario}  \nPontuação Final: ${TaxaDeAcerto} Acerto
 
 
 
-
-
-
-
-
-
-
-
-//OH NÃO! Tente mais uma vez.
-//BOM TRABALHO! Pratique um pouco mais.
-//MUITO BOM! Você acertou a maioria.
-//EXCELENTE! Você é um verdadeiro expert.
-
 //    Jogador(a): [[nome do jogador]]
 //Pontuação final: [[pontuação final]] acertos. 
